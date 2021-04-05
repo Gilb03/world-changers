@@ -28,6 +28,16 @@ const Header = ({ siteTitle }) => (
         </Link>
       </h1>
     </div>
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark"><button class="navbar-toggler" type="button" data-target="#navigation"> <span class="navbar-toggler-icon"></span> </button>
+    <div class="collapse navbar-collapse">
+        <ul class="navbar-nav">
+            <li class="nav-item active"> <a href="/" class="nav-link"> Home </a> </li>
+            <li class="nav-item"> <a href="/about/" class="nav-link"> About </a> </li>
+            <li class="nav-item"> <a href="/contact/" class="nav-link"> Academics </a> </li>
+            <li class="nav-item"> <a href="/contact/" class="nav-link"> Admission </a> </li>
+        </ul>
+    </div>
+</nav>
   </header>
 )
 

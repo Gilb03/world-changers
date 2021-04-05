@@ -1,0 +1,17 @@
+Stats: 
+Site develops fine 
+Site builds no issues 
+
+
+Steps: 
+1. Finish skeleton of homepage ✅
+	-Add Navbar with links 
+		*   create a navbar.css as a component to import to home page	*
+	-Add hero section w/ slideshow of stuff they provide. 
+	-Restyle the article links. 
+
+    1) about us ✅
+	-Add Contact us ✅
+    2) home ✅
+    3) admission✅
+    3) academics✅
